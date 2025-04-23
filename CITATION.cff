@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Renders"
+  given-names: "Jarne"
+title: "Criticality-Checker"
+version: 1
+date-released: 2025-04-23
+url: "https://github.com/JarneRenders/Criticality-Checker"

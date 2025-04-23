@@ -1,7 +1,7 @@
 # CriticalityChecker
 This repository contains a filter program for checking properties involving the criticality of snarks. A snark G is *critical* if G - {u,v} is 3-edge-colourable for every edge uv; *cocritical* if G - {u,v} is 3-edge-colourable for every non-adjacent pair u,v and *bicritical* if G - {u,v} is 3-edge-colourable for any pair u,v.
 
-The latest version of this program can be obtained from <https://github.com/JarneRenders/CriticalityChecker>.
+The latest version of this program can be obtained from <https://github.com/JarneRenders/Criticality-Checker>.
 
 This program can be used the verify whether a snark is critical, cocritical or bicritical. These properties can also be verified for arbitrary cubic graphs. The program can also be used to determine 3-edge-colourability of the input graphs.
 
