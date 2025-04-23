@@ -31,17 +31,17 @@ Graph are read from stdin in graph6 format. Graphs are sent to stdout in graph6 
 
 Without any arguments this program output graphs which are critical.
 ```
-    -3, --colourability\n\
-            outputs graphs which are 3-edge-colourable; does not work\n\
-            with -b or -c\n\
-    -b, --bicritical\n\
-            outputs graphs which are bicritical; does not work with\n\
-            -3 or -c\n\
-    -c, --cocritical\n\
-            outputs graphs which are cocritical; does not work with\n\
-            -3 or -b\n\
-    -h, --help\n\
-            outputs this helptext\n\
-    -v, --verbose\n\
-            sends extra information to stderr\n\
+    -3, --colourability
+            outputs graphs which are 3-edge-colourable; does not work
+            with -b or -c
+    -b, --bicritical
+            outputs graphs which are bicritical; does not work with
+            -3 or -c
+    -c, --cocritical
+            outputs graphs which are cocritical; does not work with
+            -3 or -b
+    -h, --help
+            outputs this helptext
+    -v, --verbose
+            sends extra information to stderr
 ```
